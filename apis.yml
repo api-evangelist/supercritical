@@ -1,0 +1,82 @@
+aid: supercritical
+name: Supercritical
+description: >-
+  Supercritical is a London-based carbon removal marketplace founded in 2021
+  by Michelle You and Aaron Randall, the team behind Songkick. The company
+  builds the market infrastructure that turns carbon dioxide removal (CDR)
+  commitments into delivered tonnes, connecting corporate buyers with vetted
+  suppliers of durable, engineered, and nature-engineered carbon removal.
+  Supercritical's marketplace covers the major durable CDR pathways —
+  biochar, BECCS, enhanced weathering, direct air capture (DAC), DAC with
+  ocean storage, woody biomass sinking, and bio-oil — with published per-tonne
+  pricing and live availability data. The platform layers a proprietary
+  118-point vetting protocol on top of supplier listings, spanning climate
+  science, environmental impact, delivery risk, and social benefits, and
+  reports that 84% of assessed projects fail to meet its standards.
+  Supercritical also provides supply sourcing and creation services to
+  originate new CDR projects, buffer-pool-based delivery-risk mitigation,
+  and policy and science advisory work (its team advises SBTi on CDR
+  guidance). Customers include Virgin Atlantic, The Economist Group,
+  Rothschild & Co, XTX Markets, and Tide, with reported coverage of roughly
+  80% of the global durable CDR market and 1.3M tonnes contracted across
+  200+ corporate buyers and 600+ tracked suppliers. The business is funded
+  by Lightspeed Venture Partners, MMC Ventures, and GreenCode Ventures.
+  Supercritical does not currently publish a public developer API, SDK, or
+  open-source repository; transactions, supplier discovery, and pricing data
+  are delivered through its hosted marketplace, advisor relationships, and
+  contracted buyer accounts.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Carbon Removal
+  - Durable CDR
+  - Engineered Carbon Removal
+  - Carbon Markets
+  - Climate Tech
+  - Net Zero
+  - Biochar
+  - BECCS
+  - Enhanced Weathering
+  - Direct Air Capture
+  - Woody Biomass Sinking
+  - Bio-Oil
+  - Marketplace
+  - Sustainability
+  - ESG
+url: https://raw.githubusercontent.com/api-evangelist/supercritical/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://gosupercritical.com
+  - type: About
+    url: https://gosupercritical.com/about-us
+  - type: CarbonRemoval
+    url: https://gosupercritical.com/carbon-removal
+  - type: ForBuyers
+    url: https://gosupercritical.com/for-buyers
+  - type: ForSuppliers
+    url: https://gosupercritical.com/for-suppliers
+  - type: Marketplace
+    url: https://climate.gosupercritical.com/marketplace/
+  - type: Resources
+    url: https://gosupercritical.com/resources
+  - type: Blog
+    url: https://gosupercritical.com/blog
+  - type: Careers
+    url: https://gosupercritical.com/jobs
+  - type: Contact
+    url: https://gosupercritical.com/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/gosupercritical
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/supercritical
+  - type: CDRfyi
+    url: https://www.cdr.fyi/marketplace/supercritical
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
