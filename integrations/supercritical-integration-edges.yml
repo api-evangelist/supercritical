@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/supercritical/integrations
+- https://n8n.io/integrations/supercritical/
+- https://composio.dev/toolkits/supercritical
+- https://monid.ai/tools/supercritical
+checked:
+- https://composio.dev/toolkits/supercritical
+- https://monid.ai/tools/supercritical
+- https://n8n.io/integrations/supercritical/
+- https://zapier.com/apps/supercritical/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
